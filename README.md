@@ -32,5 +32,5 @@ Establecer un entorno estandarizado de control de código fuente para garantizar
 
 4. **Vinculación con el repositorio centralizado y sincronización (Push)**
    ```bash
-   git remote add origin [https://github.com/ismael-deharo/mi-primer-repo.git](https://github.com/ismael-deharo/mi-primer-repo.git)
+   git remote add origin [https://github.com/Tu_Nombre/mi-primer-repo.git](https://github.com/Tu_Nombre/mi-primer-repo.git)
    git remote -v
